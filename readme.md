@@ -53,6 +53,9 @@
 
 ## 💻 기술 스택
 
+### 1학기
+- **os**: ![Windows](https://img.shields.io/badge/-Windows-blue?style=flat&logo=windows&logoColor=white)
+- **IDE**: ![WindSurf](https://img.shields.io/badge/-WindSurf-ffffff?style=flat&logo=windsurf&logoColor=black)
 - **프로그래밍 언어**: ![C#](https://img.shields.io/badge/C%23-512bd4?style=flat&logo=c&logoColor=white)
 ,![python](https://img.shields.io/badge/python-3776ab?style=flat&logo=python&logoColor=white)
 - **AI/ML**: ![Ultralytics](https://img.shields.io/badge/Ultralytics-111F68?style=flat&logo=Ultralytics&logoColor=white),![Chat GPT API](https://img.shields.io/badge/Chat%20Gpt%20API-1DA484?style=flat&logo=openai&logoColor=white)
@@ -61,4 +64,17 @@
 - **프론트엔드**: ![Unity(ARFoundation)](https://img.shields.io/badge/-Unity(ARFoundation)-000000?style=flat&logo=unity&logoColor=white)
 - **네트워킹**: ![Photon Chat](https://img.shields.io/badge/-Photon%20Chat-004480?style=flat&logo=photon&logoColor=white)
 - **데이터 수집**: ![Roboflow](https://img.shields.io/badge/-roboflow-6706CE?style=flat&logo=roboflow&logoColor=white),![github](https://img.shields.io/badge/-github-000000?style=flat&logo=github&logoColor=white)
+- **디자인**: ![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?style=flat&logo=adobe-photoshop&logoColor=white),![Chat GPT](https://img.shields.io/badge/Chat%20Gpt-1DA484?style=flat&logo=openai&logoColor=white)
+
+### 2학기
+- **os**: ![Windows](https://img.shields.io/badge/-Windows-blue?style=flat&logo=windows&logoColor=white), ![ubuntu](https://img.shields.io/badge/-ubuntu-E55844?style=flat&logo=ubuntu&logoColor=white) 
+- **IDE**: ![WindSurf](https://img.shields.io/badge/-WindSurf-ffffff?style=flat&logo=windsurf&logoColor=black), ![vim](https://img.shields.io/badge/-vim-019733?style=flat&logo=vim&logoColor=white)
+- **프로그래밍 언어**: ![C#](https://img.shields.io/badge/C%23-512bd4?style=flat&logo=c&logoColor=white)
+,![python](https://img.shields.io/badge/python-3776ab?style=flat&logo=python&logoColor=white)
+- **AI/ML**: ![Ultralytics](https://img.shields.io/badge/Ultralytics-111F68?style=flat&logo=Ultralytics&logoColor=white),![Chat GPT API](https://img.shields.io/badge/Chat%20Gpt%20API-1DA484?style=flat&logo=openai&logoColor=white)
+- **백엔드**: ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white), ![docker](https://img.shields.io/badge/-docker-2496ED?style=flat&logo=docker&logoColor=white), ![oracle cloud](https://img.shields.io/badge/-oracle%20cloud-E55844?style=flat&logo=oracle&logoColor=white)
+- **DB** : ![Postgresql](https://img.shields.io/badge/-postgresql-4169E1?style=flat&logo=postgresql&logoColor=white), ![oracle cloud](https://img.shields.io/badge/-oracle%20cloud-E55844?style=flat&logo=oracle&logoColor=white), ![docker](https://img.shields.io/badge/-docker-2496ED?style=flat&logo=docker&logoColor=white),![psycopg2](https://img.shields.io/badge/-psycopg2-4169E1?style=flat&logo=postgresql&logoColor=white),![pandas](https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white)
+- **프론트엔드**: ![Unity(ARFoundation)](https://img.shields.io/badge/-Unity(ARFoundation)-000000?style=flat&logo=unity&logoColor=white)
+- **네트워킹**: ![Photon Chat](https://img.shields.io/badge/-Photon%20Chat-004480?style=flat&logo=photon&logoColor=white)
+- **데이터 수집**: ![Roboflow](https://img.shields.io/badge/-roboflow-6706CE?style=flat&logo=roboflow&logoColor=white)
 - **디자인**: ![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?style=flat&logo=adobe-photoshop&logoColor=white)
