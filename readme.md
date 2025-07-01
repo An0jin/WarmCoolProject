@@ -78,4 +78,4 @@
 - **프론트엔드**: ![Unity(ARFoundation)](https://img.shields.io/badge/-Unity(ARFoundation)-000000?style=flat&logo=unity&logoColor=white)
 - **네트워킹**: ![Photon Chat](https://img.shields.io/badge/-Photon%20Chat-004480?style=flat&logo=photon&logoColor=white)
 - **데이터 수집**: ![Roboflow](https://img.shields.io/badge/-roboflow-6706CE?style=flat&logo=roboflow&logoColor=white)
-- **디자인**: ![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?style=flat&logo=adobe-photoshop&logoColor=white)
+- **디자인**: ![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?style=flat&logo=adobe-photoshop&logoColor=white),![Chat GPT](https://img.shields.io/badge/Chat%20Gpt-1DA484?style=flat&logo=openai&logoColor=white)
