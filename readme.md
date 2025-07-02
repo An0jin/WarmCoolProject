@@ -77,5 +77,5 @@
 - **클라우드** : ![oracle cloud](https://img.shields.io/badge/-oracle%20cloud-E55844?style=flat&logo=oracle&logoColor=white), ![docker](https://img.shields.io/badge/-docker-2496ED?style=flat&logo=docker&logoColor=white), ![shell script](https://img.shields.io/badge/-shell%20script-E55844?style=flat&logo=gnubash&logoColor=white) 
 - **프론트엔드**: ![Unity(ARFoundation)](https://img.shields.io/badge/-Unity(ARFoundation)-000000?style=flat&logo=unity&logoColor=white)
 - **네트워킹**: ![Photon Chat](https://img.shields.io/badge/-Photon%20Chat-004480?style=flat&logo=photon&logoColor=white)
-- **데이터 수집**: ![Roboflow](https://img.shields.io/badge/-roboflow-6706CE?style=flat&logo=roboflow&logoColor=white)
+- **데이터 수집 및 증강**: ![Roboflow](https://img.shields.io/badge/-roboflow-6706CE?style=flat&logo=roboflow&logoColor=white),![open cv](https://img.shields.io/badge/-open%20cv-5C3EE8?style=flat&logo=opencv&logoColor=white)
 - **디자인**: ![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?style=flat&logo=adobe-photoshop&logoColor=white),![Chat GPT](https://img.shields.io/badge/Chat%20Gpt-1DA484?style=flat&logo=openai&logoColor=white)
